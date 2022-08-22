@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #557c3e !important;
+  background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -369,9 +369,5 @@ h3.menu-item-title {
     float: left;
     width: 100%;
   }
- 
-  }
-
-
-  
+}
 
